@@ -1,8 +1,5 @@
 # Practical Linear Algebra for Data Science
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/practical-linear-algebra-for-data-science/issues)
 
 A comprehensive guide to understanding and applying linear algebra concepts in data science, machine learning, and artificial intelligence.
 
